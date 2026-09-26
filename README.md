@@ -1,5 +1,5 @@
 
-Live Site : 
+Live Site : https://fanciful-palmier-1c5750.netlify.app/
 
 # digiTools Platform
    A modern digital tools marketplace
