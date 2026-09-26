@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Canva Pro",
+    "description": "Create stunning graphics and designs effortlessly.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "features": ["100M+ Premium Photos", "Magic Resizer Tool", "Brand Kit Support"],
+    "icon": "Palette"
+  },
+  {
+    "id": "2",
+    "name": "ChatGPT Plus",
+    "description": "Advanced AI model for writing, coding, and analysis.",
+    "price": 20.00,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "features": ["GPT-4 Access", "Faster Response Speed", "DALL-E Integration"],
+    "icon": "Bot"
+  },
+  {
+    "id": "3",
+    "name": "Grammarly Premium",
+    "description": "Improve your writing with real-time AI suggestions.",
+    "price": 12.00,
+    "period": "monthly",
+    "tag": "New",
+    "features": ["Plagiarism Checker", "Tone Detector", "Full Sentence Rewrite"],
+    "icon": "SquarePen"
+  },
+  {
+    "id": "4",
+    "name": "Figma Professional",
+    "description": "Collaborative interface design tool for modern teams.",
+    "price": 15.00,
+    "period": "monthly",
+    "tag": "Popular",
+    "features": ["Unlimited Files", "Shared Libraries", "Advanced Prototyping"],
+    "icon": "Layout"
+  },
+  {
+    "id": "5",
+    "name": "GitHub Copilot",
+    "description": "Your AI pair programmer to code faster.",
+    "price": 10.00,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "features": ["Code Completion", "Multi-language Support", "CLI Assistance"],
+    "icon": "Code2"
+  },
+  {
+    "id": "6",
+    "name": "Notion Plus",
+    "description": "Connected workspace for wiki, docs, and project management.",
+    "price": 8.00,
+    "period": "monthly",
+    "tag": "New",
+    "features": ["Unlimited File Uploads", "Custom Databases", "Automation Rules"],
+    "icon": "FileText"
+  }
+]
